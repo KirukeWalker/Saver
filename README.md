@@ -1,4 +1,4 @@
-# Herosaver
+# Saver
 
 Methodology to Save Configuration and STLs from websites using the THREE.JS framework for academic and educational purposes.
 
